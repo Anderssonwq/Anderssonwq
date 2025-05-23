@@ -1,4 +1,4 @@
-# 👩🏻‍💻 Andersson Carlos
+# 🧑🏻‍💻 Andersson Carlos
 
 **`Desenvolvedor FullStack`**
 
